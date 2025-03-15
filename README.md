@@ -1,6 +1,7 @@
 # Oficina_Mecanica
 Desafio db_oficina Mecanica Baseado no modelo Do diagrama.
-
+veja o diagrama no Issues ok
+https://github.com/wkshyDio3D/Oficina_Mecanica/issues/1
 
 -- Entrega de desafio oficina DIO ---
 
